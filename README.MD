@@ -1,7 +1,7 @@
 # ros2_ball_pong_game
 
 ## Description
-This is a simple ROS2 package that implements a ball pong game. This is a assignment for the Upper New Teammates of Mosasaurus. And this code is based on this repository:[Short Game Play](https://github.com/fjp/ros-turtle-pong/) and was adapted to work with ROS2. 
+This is a simple ROS2 package that implements a ball pong game. This is a assignment for the Upper New Teammates of Mosasaurus. And this code is based on this repository:[ros-turtle-pong](https://github.com/fjp/ros-turtle-pong/) and was adapted to work with ROS2. 
 
 ## Installation
 To install the package, clone the repository in your ROS2 workspace and build it using colcon:
